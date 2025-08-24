@@ -52,28 +52,28 @@
 </head>
 <body>
   <header>
-    <h1>Bienvenue sur mon Portfolio</h1>
-    <p>Je suis un élève passionné de web 💻</p>
+    <h1>Welcome on our website</h1>
+    <p>Our goal : create a place for sciences geeks where you can learn about uncommon topics.</p>
   </header>
 
   <section>
     <div class="card">
-      <h2>À propos de moi</h2>
-      <p>Je suis étudiant et j'apprends à créer des sites web. J'adore apprendre de nouvelles choses !</p>
+      <h2>A bit about us</h2>
+      <p>We are 2 high school students passionate about science topics. We love learning something new everyday and we want to share this knowledge with you.</p>
     </div>
 
     <div class="card">
-      <h2>Mes projets</h2>
+      <h2>Our projects</h2>
       <ul>
-        <li>Projet 1 : Petit site HTML</li>
-        <li>Projet 2 : Blog personnel</li>
-        <li>Projet 3 : Application simple en JavaScript</li>
+        <li>Projet 1 : Create 10 minute presentations</li>
+        <li>Projet 2 : Share experiments in link with those topics</li>
       </ul>
     </div>
 
     <div class="card">
       <h2>Contact</h2>
-      <p>📧 <a href="mailto:tonemail@example.com">tonemail@example.com</a></p>
+      <p>📧 <a href="mailto:kiruaazol439@gmail.com">kiruaazol439@gmail.com</a></p>
+      <p>📧 <a href="mailto:jaimelasoupealatomate@gmail.com">jaimelasoupealatomate@gmail.com</a></p>
     </div>
   </section>
 
